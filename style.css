@@ -1,0 +1,42 @@
+#HeaderBaş {
+  color: red;
+  text-align: center;
+}
+.nav {
+  display: inline;
+  list-style-position: inside;
+  margin-left: 10px;
+}
+#navbar {
+  text-align: center;
+}
+#explanation {
+  text-align: center;
+}
+li {
+  text-align: center;
+  list-style-position: inside;
+}
+div {
+  background-color: rgb(156, 211, 211);
+}
+#copyright {
+  text-align: center;
+  color: red;
+}
+#gta5 {
+  width: 200px;
+}
+#GodOfWar {
+  width: 200px;
+}
+#fifa22 {
+  width: 200px;
+}
+#pes22 {
+  width: 200px;
+}
+#AnasayfaResim {
+  width: 200px;
+  margin-left: 650px;
+}
